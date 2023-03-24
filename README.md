@@ -1,3 +1,5 @@
-# buildspace 
+# TweetStorm 
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+I built this with the help of BuildSpace(https://buildspace.so/builds/ai-writer) 
+
+View it live here : https://tweetstorm-production-f1a4.up.railway.app/ 
